@@ -7,10 +7,11 @@ public class HelloWorldDemo {
 	public static void main(String[] args) {
 
 		
-		System.out.println("Today date is "+new Date());
+		System.out.println("program is started at "+new Date());
 		
-		System.out.println("Hello Wordl......");
+		System.out.println("Hello World......");
 		
+		System.out.println("program is ended at "+new Date());
 	}
 
 }
