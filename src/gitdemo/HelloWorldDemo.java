@@ -6,7 +6,7 @@ public class HelloWorldDemo {
 
 	public static void main(String[] args) {
 
-		// demo purpose file creation 
+		// demo purpose file creation by devlabs trainer
 		
 		
 		System.out.println("program is started at "+new Date());
